@@ -1,7 +1,7 @@
 [
   {
     "name": "Le Seigneur des Anneaux : La Guerre des Rohirrim",
-    "room": "SALLE 11",
+    "room": "11",
     "ban": "TP",
     "start": "16:45",
     "play": "17:05",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Vaiana 2",
-    "room": "SALLE 9",
+    "room": "9",
     "ban": "TP",
     "start": "17:30",
     "play": "17:50",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Jamais sans mon psy",
-    "room": "SALLE 3",
+    "room": "3",
     "ban": "TP",
     "start": "17:50",
     "play": "18:10",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Vaiana 2",
-    "room": "SALLE 10",
+    "room": "10",
     "ban": "TP",
     "start": "18:30",
     "play": "18:50",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Les Femmes au balcon",
-    "room": "SALLE 16",
+    "room": "16",
     "ban": "-12",
     "start": "19:00",
     "play": "19:20",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Vaiana 2",
-    "room": "SALLE 4DX",
+    "room": "4DX",
     "ban": "TP",
     "start": "19:15",
     "play": "19:35",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Vaiana 2",
-    "room": "SALLE 1",
+    "room": "1",
     "ban": "TP",
     "start": "19:20",
     "play": "19:40",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Saint-Ex",
-    "room": "SALLE 6",
+    "room": "6",
     "ban": "TP",
     "start": "19:30",
     "play": "19:50",
@@ -65,7 +65,7 @@
   },
   {
     "name": "JURE N°2",
-    "room": "SALLE 12",
+    "room": "12",
     "ban": "TP",
     "start": "19:20",
     "play": "19:35",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Wicked",
-    "room": "SALLE IMAX",
+    "room": "IMAX",
     "ban": "TP",
     "start": "18:30",
     "play": "18:50",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Venom: The Last Dance",
-    "room": "SALLE 5",
+    "room": "5",
     "ban": "AVERT",
     "start": "19:30",
     "play": "19:50",
@@ -89,7 +89,7 @@
   },
   {
     "name": "En fanfare",
-    "room": "SALLE 8",
+    "room": "8",
     "ban": "TP",
     "start": "19:45",
     "play": "20:05",
@@ -97,7 +97,7 @@
   },
   {
     "name": "Conclave",
-    "room": "SALLE 7",
+    "room": "7",
     "ban": "TP",
     "start": "19:30",
     "play": "19:50",
@@ -105,7 +105,7 @@
   },
   {
     "name": "Jamais sans mon psy",
-    "room": "SALLE 3",
+    "room": "3",
     "ban": "TP",
     "start": "20:00",
     "play": "20:20",
@@ -113,7 +113,7 @@
   },
   {
     "name": "Leurs Enfants après eux",
-    "room": "SALLE 4",
+    "room": "4",
     "ban": "TP",
     "start": "19:15",
     "play": "19:35",
@@ -121,7 +121,7 @@
   },
   {
     "name": "Le Seigneur des Anneaux : La Guerre des Rohirrim",
-    "room": "SALLE 9",
+    "room": "9",
     "ban": "TP",
     "start": "19:45",
     "play": "20:00",
@@ -129,7 +129,7 @@
   },
   {
     "name": "Gladiator II",
-    "room": "SALLE 14",
+    "room": "14",
     "ban": "-12",
     "start": "19:30",
     "play": "19:45",
@@ -137,7 +137,7 @@
   },
   {
     "name": "L'Amour ouf",
-    "room": "SALLE 15",
+    "room": "15",
     "ban": "AVERT",
     "start": "19:15",
     "play": "19:35",
@@ -145,7 +145,7 @@
   },
   {
     "name": "Vaiana 2",
-    "room": "SALLE 10",
+    "room": "10",
     "ban": "TP",
     "start": "20:45",
     "play": "21:05",
@@ -153,7 +153,7 @@
   },
   {
     "name": "Wicked",
-    "room": "SALLE 11",
+    "room": "11",
     "ban": "TP",
     "start": "20:00",
     "play": "20:20",
@@ -161,7 +161,7 @@
   },
   {
     "name": "Vaiana 2",
-    "room": "SALLE 1",
+    "room": "1",
     "ban": "TP",
     "start": "21:45",
     "play": "22:05",
@@ -169,7 +169,7 @@
   },
   {
     "name": "Le Seigneur des Anneaux : La Guerre des Rohirrim",
-    "room": "SALLE 4DX",
+    "room": "4DX",
     "ban": "TP",
     "start": "21:30",
     "play": "21:50",
@@ -177,7 +177,7 @@
   },
   {
     "name": "Wicked",
-    "room": "SALLE 16",
+    "room": "16",
     "ban": "TP",
     "start": "21:15",
     "play": "21:35",
@@ -185,7 +185,7 @@
   },
   {
     "name": "Les Femmes au balcon",
-    "room": "SALLE 7",
+    "room": "7",
     "ban": "-12",
     "start": "22:15",
     "play": "22:35",
@@ -193,7 +193,7 @@
   },
   {
     "name": "Venom: The Last Dance",
-    "room": "SALLE 4",
+    "room": "4",
     "ban": "AVERT",
     "start": "22:10",
     "play": "22:30",
@@ -201,7 +201,7 @@
   },
   {
     "name": "Le Seigneur des Anneaux : La Guerre des Rohirrim",
-    "room": "SALLE 6",
+    "room": "6",
     "ban": "TP",
     "start": "21:45",
     "play": "22:05",
@@ -209,7 +209,7 @@
   },
   {
     "name": "Saint-Ex",
-    "room": "SALLE 14",
+    "room": "14",
     "ban": "TP",
     "start": "22:30",
     "play": "22:50",
@@ -217,7 +217,7 @@
   },
   {
     "name": "Vaiana 2",
-    "room": "SALLE 15",
+    "room": "15",
     "ban": "TP",
     "start": "22:30",
     "play": "22:50",
