@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Le Seigneur des Anneaux: La Guerre des Rohirrim",
+        "room": "11",
+        "ban": null,
+        "start": "11:40",
+        "play": "17:05",
+        "end": "11:40"
+    },
+    {
+        "name": "Vaiana 2",
+        "room": "9",
+        "ban": null,
+        "start": "11:40",
+        "play": "17:50",
+        "end": "11:40"
+    },
+    {
+        "name": "Jamais sans mon psy",
+        "room": "3",
+        "ban": null,
+        "start": "11:20",
+        "play": "18:10",
+        "end": "11:20"
+    },
+    {
+        "name": "Vaiana 2",
+        "room": "10",
+        "ban": null,
+        "start": "11:33",
+        "play": "18:50",
+        "end": "11:33"
+    },
+    {
+        "name": "Les Femmes au balcon",
+        "room": "16",
+        "ban": null,
+        "start": "19:00",
+        "play": "19:20",
+        "end": "21:03"
+    },
+    {
+        "name": "Vaiana 2",
+        "room": "4DX",
+        "ban": null,
+        "start": "19:15",
+        "play": "19:35",
+        "end": "21:14"
+    },
+    {
+        "name": "Vaiana 2",
+        "room": "1",
+        "ban": null,
+        "start": "19:20",
+        "play": "19:40",
+        "end": "21:19"
+    },
+    {
+        "name": "Saint-Ex",
+        "room": "6",
+        "ban": null,
+        "start": "19:30",
+        "play": "19:50",
+        "end": "21:28"
+    },
+    {
+        "name": "JURE N°2",
+        "room": "12",
+        "ban": null,
+        "start": "19:20",
+        "play": "19:35",
+        "end": "21:29"
+    },
+    {
+        "name": "Wicked",
+        "room": "16",
+        "ban": null,
+        "start": "21:15",
+        "play": "21:35",
+        "end": "00:16"
+    },
+    {
+        "name": "Les Femmes au balcon",
+        "room": "7",
+        "ban": "-12",
+        "start": "22:15",
+        "play": "22:35",
+        "end": "00:18"
+    },
+    {
+        "name": "Venom: The Last Dance",
+        "room": "4",
+        "ban": null,
+        "start": "22:10",
+        "play": "22:30",
+        "end": "00:19"
+    },
+    {
+        "name": "Le Seigneur des Anneaux: La Guerre des Rohirrim",
+        "room": "6",
+        "ban": null,
+        "start": "21:45",
+        "play": "22:05",
+        "end": "00:19"
+    },
+    {
+        "name": "Saint-Ex",
+        "room": "14",
+        "ban": null,
+        "start": "22:30",
+        "play": "22:50",
+        "end": "00:28"
+    },
+    {
+        "name": "Vaiana 2",
+        "room": "15",
+        "ban": null,
+        "start": "22:30",
+        "play": "22:50",
+        "end": "00:29"
+    }
+]
