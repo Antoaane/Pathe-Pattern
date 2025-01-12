@@ -1,226 +1,402 @@
 [
   {
-    "name": "Le Seigneur des Anneaux : La Guerre des Rohirrim",
-    "room": "11",
+    "name": "Ma mini-séance : Mon beau sapin",
+    "room": "5",
     "ban": "TP",
-    "start": "16:45",
-    "play": "17:05",
-    "end": "19:19"
+    "start": "10:30",
+    "play": "10:45",
+    "end": "11:20"
   },
   {
-    "name": "Vaiana 2",
+    "name": "SONIC 3 - le film",
     "room": "9",
     "ban": "TP",
-    "start": "17:30",
-    "play": "17:50",
-    "end": "19:29"
-  },
-  {
-    "name": "Jamais sans mon psy",
-    "room": "3",
-    "ban": "TP",
-    "start": "17:50",
-    "play": "18:10",
-    "end": "19:41"
+    "start": "10:30",
+    "play": "10:50",
+    "end": "12:40"
   },
   {
     "name": "Vaiana 2",
     "room": "10",
     "ban": "TP",
-    "start": "18:30",
-    "play": "18:50",
-    "end": "20:29"
+    "start": "10:45",
+    "play": "11:05",
+    "end": "12:44"
   },
   {
-    "name": "Les Femmes au balcon",
-    "room": "16",
-    "ban": "-12",
-    "start": "19:00",
-    "play": "19:20",
-    "end": "21:03"
+    "name": "Niko le petit renne, mission Père Noël",
+    "room": "14",
+    "ban": "TP",
+    "start": "11:00",
+    "play": "11:20",
+    "end": "12:45"
   },
   {
-    "name": "Vaiana 2",
+    "name": "Mufasa : Le Roi Lion",
+    "room": "IMAX",
+    "ban": "TP",
+    "start": "10:30",
+    "play": "10:50",
+    "end": "12:50"
+  },
+  {
+    "name": "La chambre d'à côté",
+    "room": "8",
+    "ban": "TP",
+    "start": "10:45",
+    "play": "11:05",
+    "end": "12:52"
+  },
+  {
+    "name": "L'Amour au présent",
+    "room": "15",
+    "ban": "TP",
+    "start": "10:45",
+    "play": "11:05",
+    "end": "12:52"
+  },
+  {
+    "name": "Totto-chan, la petite fille à la fenêtre",
+    "room": "12",
+    "ban": "TP",
+    "start": "10:45",
+    "play": "11:05",
+    "end": "12:59"
+  },
+  {
+    "name": "Criminal Squad: Pantera",
+    "room": "11",
+    "ban": "TP",
+    "start": "10:30",
+    "play": "10:50",
+    "end": "13:00"
+  },
+  {
+    "name": "Mufasa : Le Roi Lion",
+    "room": "1",
+    "ban": "TP",
+    "start": "10:45",
+    "play": "11:05",
+    "end": "13:05"
+  },
+  {
+    "name": "La Fille d'un grand amour",
+    "room": "4",
+    "ban": "TP",
+    "start": "11:15",
+    "play": "11:35",
+    "end": "13:09"
+  },
+  {
+    "name": "SONIC 3 - le film",
     "room": "4DX",
     "ban": "TP",
-    "start": "19:15",
-    "play": "19:35",
-    "end": "21:14"
+    "start": "11:00",
+    "play": "11:20",
+    "end": "13:10"
+  },
+  {
+    "name": "Un ours dans le Jura",
+    "room": "3",
+    "ban": "AVERT",
+    "start": "11:00",
+    "play": "11:20",
+    "end": "13:13"
+  },
+  {
+    "name": "Gladiator II",
+    "room": "16",
+    "ban": "-12",
+    "start": "10:30",
+    "play": "10:50",
+    "end": "13:20"
+  },
+  {
+    "name": "Kraven le chasseur",
+    "room": "6",
+    "ban": "AVERT",
+    "start": "11:00",
+    "play": "11:20",
+    "end": "13:27"
+  },
+  {
+    "name": "Six jours",
+    "room": "5",
+    "ban": "TP",
+    "start": "11:30",
+    "play": "11:50",
+    "end": "13:31"
+  },
+  {
+    "name": "Nosferatu",
+    "room": "7",
+    "ban": "-12 +Avt",
+    "start": "11:00",
+    "play": "11:20",
+    "end": "13:32"
+  },
+  {
+    "name": "Ma mini-séance : Mon beau sapin",
+    "room": "11",
+    "ban": "TP",
+    "start": "14:00",
+    "play": "14:20",
+    "end": "14:55"
+  },
+  {
+    "name": "Niko le petit renne, mission Père Noël",
+    "room": "4",
+    "ban": "TP",
+    "start": "13:30",
+    "play": "13:50",
+    "end": "15:15"
+  },
+  {
+    "name": "La Fille d'un grand amour",
+    "room": "6",
+    "ban": "TP",
+    "start": "14:00",
+    "play": "14:20",
+    "end": "15:54"
+  },
+  {
+    "name": "SONIC 3 - le film",
+    "room": "4DX",
+    "ban": "TP",
+    "start": "13:45",
+    "play": "14:05",
+    "end": "15:55"
+  },
+  {
+    "name": "Un ours dans le Jura",
+    "room": "3",
+    "ban": "AVERT",
+    "start": "13:45",
+    "play": "14:05",
+    "end": "15:58"
   },
   {
     "name": "Vaiana 2",
     "room": "1",
     "ban": "TP",
-    "start": "19:20",
-    "play": "19:40",
-    "end": "21:19"
-  },
-  {
-    "name": "Saint-Ex",
-    "room": "6",
-    "ban": "TP",
-    "start": "19:30",
-    "play": "19:50",
-    "end": "21:28"
+    "start": "14:00",
+    "play": "14:20",
+    "end": "15:59"
   },
   {
     "name": "JURE N°2",
-    "room": "12",
+    "room": "7",
     "ban": "TP",
-    "start": "19:20",
-    "play": "19:35",
-    "end": "21:29"
+    "start": "13:45",
+    "play": "14:05",
+    "end": "15:59"
   },
   {
-    "name": "Wicked",
-    "room": "IMAX",
+    "name": "SONIC 3 - le film",
+    "room": "9",
     "ban": "TP",
-    "start": "18:30",
-    "play": "18:50",
-    "end": "21:31"
-  },
-  {
-    "name": "Venom: The Last Dance",
-    "room": "5",
-    "ban": "AVERT",
-    "start": "19:30",
-    "play": "19:50",
-    "end": "21:39"
+    "start": "14:00",
+    "play": "14:20",
+    "end": "16:10"
   },
   {
     "name": "En fanfare",
-    "room": "8",
+    "room": "12",
     "ban": "TP",
-    "start": "19:45",
-    "play": "20:05",
-    "end": "21:48"
+    "start": "14:15",
+    "play": "14:35",
+    "end": "16:18"
+  },
+  {
+    "name": "Six jours",
+    "room": "15",
+    "ban": "TP",
+    "start": "14:30",
+    "play": "14:50",
+    "end": "16:31"
   },
   {
     "name": "Conclave",
-    "room": "7",
+    "room": "5",
     "ban": "TP",
-    "start": "19:30",
-    "play": "19:50",
-    "end": "21:50"
+    "start": "14:15",
+    "play": "14:35",
+    "end": "16:35"
   },
   {
-    "name": "Jamais sans mon psy",
-    "room": "3",
+    "name": "Mufasa : Le Roi Lion",
+    "room": "IMAX",
+    "ban": "TP",
+    "start": "14:15",
+    "play": "14:35",
+    "end": "16:35"
+  },
+  {
+    "name": "Gladiator II",
+    "room": "12",
+    "ban": "-12",
+    "start": "19:15",
+    "play": "19:30",
+    "end": "22:00"
+  },
+  {
+    "name": "Mufasa : Le Roi Lion",
+    "room": "IMAX",
+    "ban": "TP",
+    "start": "19:45",
+    "play": "20:05",
+    "end": "22:05"
+  },
+  {
+    "name": "La chambre d'à côté",
+    "room": "11",
     "ban": "TP",
     "start": "20:00",
     "play": "20:20",
-    "end": "21:51"
+    "end": "22:07"
   },
   {
-    "name": "Leurs Enfants après eux",
+    "name": "Mufasa : Le Roi Lion",
+    "room": "16",
+    "ban": "TP",
+    "start": "19:50",
+    "play": "20:10",
+    "end": "22:10"
+  },
+  {
+    "name": "Conclave",
     "room": "4",
     "ban": "TP",
-    "start": "19:15",
-    "play": "19:35",
-    "end": "21:56"
+    "start": "20:00",
+    "play": "20:20",
+    "end": "22:20"
   },
   {
-    "name": "Le Seigneur des Anneaux : La Guerre des Rohirrim",
+    "name": "Pirates des Caraïbes : la Malédiction",
+    "room": "3",
+    "ban": "TP",
+    "start": "21:00",
+    "play": "21:20",
+    "end": "23:43"
+  },
+  {
+    "name": "Wicked",
+    "room": "10",
+    "ban": "TP",
+    "start": "20:45",
+    "play": "21:05",
+    "end": "23:46"
+  },
+  {
+    "name": "La chambre d'à côté",
+    "room": "7",
+    "ban": "TP",
+    "start": "21:40",
+    "play": "22:00",
+    "end": "23:47"
+  },
+  {
+    "name": "SONIC 3 - le film",
     "room": "9",
     "ban": "TP",
-    "start": "19:45",
-    "play": "20:00",
-    "end": "22:14"
+    "start": "21:50",
+    "play": "22:10",
+    "end": "00:00"
+  },
+  {
+    "name": "Mufasa : Le Roi Lion",
+    "room": "8",
+    "ban": "TP",
+    "start": "22:00",
+    "play": "22:20",
+    "end": "00:20"
+  },
+  {
+    "name": "La Fille d'un grand amour",
+    "room": "16",
+    "ban": "TP",
+    "start": "22:30",
+    "play": "22:50",
+    "end": "00:24"
+  },
+  {
+    "name": "Sous écrous",
+    "room": "12",
+    "ban": "TP",
+    "start": "22:15",
+    "play": "22:35",
+    "end": "00:25"
+  },
+  {
+    "name": "L'Amour ouf",
+    "room": "6",
+    "ban": "AVERT",
+    "start": "21:30",
+    "play": "21:50",
+    "end": "00:30"
+  },
+  {
+    "name": "Nosferatu",
+    "room": "15",
+    "ban": "-12 +Avt",
+    "start": "22:00",
+    "play": "22:20",
+    "end": "00:32"
+  },
+  {
+    "name": "Mufasa : Le Roi Lion",
+    "room": "4DX",
+    "ban": "TP",
+    "start": "22:15",
+    "play": "22:35",
+    "end": "00:35"
   },
   {
     "name": "Gladiator II",
     "room": "14",
     "ban": "-12",
-    "start": "19:30",
-    "play": "19:45",
-    "end": "22:15"
-  },
-  {
-    "name": "L'Amour ouf",
-    "room": "15",
-    "ban": "AVERT",
-    "start": "19:15",
-    "play": "19:35",
-    "end": "22:15"
-  },
-  {
-    "name": "Vaiana 2",
-    "room": "10",
-    "ban": "TP",
-    "start": "20:45",
-    "play": "21:05",
-    "end": "22:44"
-  },
-  {
-    "name": "Wicked",
-    "room": "11",
-    "ban": "TP",
-    "start": "20:00",
-    "play": "20:20",
-    "end": "23:01"
-  },
-  {
-    "name": "Vaiana 2",
-    "room": "1",
-    "ban": "TP",
     "start": "21:45",
     "play": "22:05",
-    "end": "23:44"
+    "end": "00:35"
   },
   {
-    "name": "Le Seigneur des Anneaux : La Guerre des Rohirrim",
-    "room": "4DX",
-    "ban": "TP",
-    "start": "21:30",
-    "play": "21:50",
-    "end": "00:04"
-  },
-  {
-    "name": "Wicked",
-    "room": "16",
-    "ban": "TP",
-    "start": "21:15",
-    "play": "21:35",
-    "end": "00:16"
-  },
-  {
-    "name": "Les Femmes au balcon",
-    "room": "7",
-    "ban": "-12",
-    "start": "22:15",
-    "play": "22:35",
-    "end": "00:18"
-  },
-  {
-    "name": "Venom: The Last Dance",
-    "room": "4",
+    "name": "Kraven le chasseur",
+    "room": "5",
     "ban": "AVERT",
     "start": "22:10",
     "play": "22:30",
-    "end": "00:19"
+    "end": "00:37"
   },
   {
-    "name": "Le Seigneur des Anneaux : La Guerre des Rohirrim",
-    "room": "6",
-    "ban": "TP",
-    "start": "21:45",
-    "play": "22:05",
-    "end": "00:19"
-  },
-  {
-    "name": "Saint-Ex",
-    "room": "14",
+    "name": "L'Amour au présent",
+    "room": "11",
     "ban": "TP",
     "start": "22:30",
     "play": "22:50",
-    "end": "00:28"
+    "end": "00:37"
   },
   {
-    "name": "Vaiana 2",
-    "room": "15",
-    "ban": "TP",
+    "name": "Un ours dans le Jura",
+    "room": "4",
+    "ban": "AVERT",
     "start": "22:30",
     "play": "22:50",
-    "end": "00:29"
+    "end": "00:43"
+  },
+  {
+    "name": "Criminal Squad: Pantera",
+    "room": "1",
+    "ban": "TP",
+    "start": "22:15",
+    "play": "22:35",
+    "end": "00:45"
+  },
+  {
+    "name": "Nosferatu",
+    "room": "IMAX",
+    "ban": "-12 +Avt",
+    "start": "22:20",
+    "play": "22:40",
+    "end": "00:52"
   }
 ]
