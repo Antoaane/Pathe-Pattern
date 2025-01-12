@@ -398,5 +398,253 @@
     "start": "22:20",
     "play": "22:40",
     "end": "00:52"
+  },
+  {
+    "name": "La chambre d'à côté",
+    "room": "16",
+    "ban": "TP",
+    "start": "14:30",
+    "play": "14:50",
+    "end": "16:37"
+  },
+  {
+    "name": "Mufasa : Le Roi Lion",
+    "room": "8",
+    "ban": "TP",
+    "start": "14:30",
+    "play": "14:50",
+    "end": "16:50"
+  },
+  {
+    "name": "Criminal Squad: Pantera",
+    "room": "10",
+    "ban": "TP",
+    "start": "14:30",
+    "play": "14:50",
+    "end": "17:00"
+  },
+  {
+    "name": "Vaiana 2",
+    "room": "11",
+    "ban": "TP",
+    "start": "15:15",
+    "play": "15:35",
+    "end": "17:14"
+  },
+  {
+    "name": "Jamais sans mon psy",
+    "room": "4",
+    "ban": "TP",
+    "start": "15:30",
+    "play": "15:50",
+    "end": "17:21"
+  },
+  {
+    "name": "La Fille d'un grand amour",
+    "room": "6",
+    "ban": "TP",
+    "start": "16:15",
+    "play": "16:35",
+    "end": "18:09"
+  },
+  {
+    "name": "Vaiana 2",
+    "room": "3",
+    "ban": "TP",
+    "start": "16:15",
+    "play": "16:35",
+    "end": "18:14"
+  },
+  {
+    "name": "Mufasa : Le Roi Lion",
+    "room": "1",
+    "ban": "TP",
+    "start": "16:15",
+    "play": "16:35",
+    "end": "18:35"
+  },
+  {
+    "name": "SONIC 3 - le film",
+    "room": "9",
+    "ban": "TP",
+    "start": "16:30",
+    "play": "16:50",
+    "end": "18:40"
+  },
+  {
+    "name": "Mufasa : Le Roi Lion",
+    "room": "4DX",
+    "ban": "TP",
+    "start": "16:30",
+    "play": "16:50",
+    "end": "18:50"
+  },
+  {
+    "name": "Kraven le chasseur",
+    "room": "7",
+    "ban": "AVERT",
+    "start": "16:30",
+    "play": "16:50",
+    "end": "18:57"
+  },
+  {
+    "name": "Un ours dans le Jura",
+    "room": "14",
+    "ban": "AVERT",
+    "start": "16:45",
+    "play": "17:05",
+    "end": "18:58"
+  },
+  {
+    "name": "Nosferatu",
+    "room": "12",
+    "ban": "-12 +Avt",
+    "start": "16:30",
+    "play": "16:50",
+    "end": "19:02"
+  },
+  {
+    "name": "En fanfare",
+    "room": "5",
+    "ban": "TP",
+    "start": "17:00",
+    "play": "17:20",
+    "end": "19:03"
+  },
+  {
+    "name": "L'Amour au présent",
+    "room": "15",
+    "ban": "TP",
+    "start": "17:00",
+    "play": "17:20",
+    "end": "19:07"
+  },
+  {
+    "name": "Mufasa : Le Roi Lion",
+    "room": "IMAX",
+    "ban": "TP",
+    "start": "17:00",
+    "play": "17:20",
+    "end": "19:20"
+  },
+  {
+    "name": "La chambre d'à côté",
+    "room": "16",
+    "ban": "TP",
+    "start": "17:15",
+    "play": "17:35",
+    "end": "19:22"
+  },
+  {
+    "name": "Vaiana 2",
+    "room": "11",
+    "ban": "TP",
+    "start": "17:30",
+    "play": "17:50",
+    "end": "19:29"
+  },
+  {
+    "name": "Criminal Squad: Pantera",
+    "room": "8",
+    "ban": "TP",
+    "start": "17:00",
+    "play": "17:20",
+    "end": "19:30"
+  },
+  {
+    "name": "Six jours",
+    "room": "4",
+    "ban": "TP",
+    "start": "17:40",
+    "play": "18:00",
+    "end": "19:41"
+  },
+  {
+    "name": "Mufasa : Le Roi Lion",
+    "room": "10",
+    "ban": "TP",
+    "start": "17:45",
+    "play": "18:05",
+    "end": "20:05"
+  },
+  {
+    "name": "SONIC 3 - le film",
+    "room": "3",
+    "ban": "TP",
+    "start": "18:30",
+    "play": "18:50",
+    "end": "20:40"
+  },
+  {
+    "name": "En fanfare",
+    "room": "6",
+    "ban": "TP",
+    "start": "19:15",
+    "play": "19:35",
+    "end": "21:18"
+  },
+  {
+    "name": "Vingt Dieux",
+    "room": "7",
+    "ban": "TP",
+    "start": "19:30",
+    "play": "19:50",
+    "end": "21:20"
+  },
+  {
+    "name": "L'Amour au présent",
+    "room": "14",
+    "ban": "TP",
+    "start": "19:20",
+    "play": "19:40",
+    "end": "21:27"
+  },
+  {
+    "name": "Un ours dans le Jura",
+    "room": "9",
+    "ban": "AVERT",
+    "start": "19:20",
+    "play": "19:40",
+    "end": "21:33"
+  },
+  {
+    "name": "La Fille d'un grand amour",
+    "room": "8",
+    "ban": "TP",
+    "start": "19:45",
+    "play": "20:05",
+    "end": "21:39"
+  },
+  {
+    "name": "Sous écrous",
+    "room": "15",
+    "ban": "TP",
+    "start": "19:30",
+    "play": "19:50",
+    "end": "21:40"
+  },
+  {
+    "name": "Mufasa : Le Roi Lion",
+    "room": "4DX",
+    "ban": "TP",
+    "start": "19:30",
+    "play": "19:50",
+    "end": "21:50"
+  },
+  {
+    "name": "Nosferatu",
+    "room": "5",
+    "ban": "-12 +Avt",
+    "start": "19:20",
+    "play": "19:40",
+    "end": "21:52"
+  },
+  {
+    "name": "Criminal Squad: Pantera",
+    "room": "1",
+    "ban": "TP",
+    "start": "19:30",
+    "play": "19:50",
+    "end": "22:00"
   }
 ]
